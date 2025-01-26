@@ -1,10 +1,9 @@
-__Email__: [grao@berkeley.edu](grao@berkeley.edu)  
-__Phone__: +1-734-846-7754  
-__Office__:  F653 (Haas), 507 Evans Hall (Economics)
+__Email__: [mgopalan@uoregon.edu](mgopalan@uoregon.edu)  
+__Office__: 102B Lokey Education Building
 
 __Teaching__  
-EWMBA 201A: Economics for Business Decision Making   
-Econ 219B: Applications of Psychology and Economics (second-year PhD class)
+EDLD 652: Data Visualization for Educational Data Science Specialization   
+EDLD 640: Capstone for Educational Data Science Specialization
 
-__[Information](/info_for_potential)__ for (potential) advisees
+
 
