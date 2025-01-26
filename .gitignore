@@ -1,10 +1,9 @@
-
 # Created by https://www.gitignore.io/api/vim,hugo,macos
 
 ### Hugo ###
 # Hugo binary
-hugo*
-!hugo_travis_ci
+#hugo*
+#!hugo_travis_ci
 
 # Generated files at default location
 /public/
