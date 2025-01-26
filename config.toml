@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Maithreyi Gopalan"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
-ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+#ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Business and Economics, University of California, Berkeley"
-    logo = "Rao_headshot_berkeley.jpg" 
+    shortbio = "Associate Professor, University of Oregon"
+    logo = "headshot_Gopalan.jpg" 
     
