@@ -4,6 +4,6 @@ At its core, educational equity is at the heart of all three strands of research
 
 Together with Erica Frankenberg, I lead the [AdvancED Equity Initiative](https://advancedequity.org). Previously, I was a [Social Science Research Institute](https://ssri.psu.edu/) co-funded Faculty Fellow and an Associate Professor of Education and Public Policy at [The Pennsylvania State University](https://www.psu.edu/). Currently, I serve as an Associate Editor at the Educational Researcher.
 
-__[Curriculum Vitae](static/pdf/Gopalan_Jan2025.pdf")__ (Updated Jan 2025)
+__[Curriculum Vitae](/pdf/Gopalan_Jan2025.pdf)__ (Updated Jan 2025)
 
 
