@@ -1,5 +1,6 @@
 works:
 - title: "College Students' Sense of Belonging and Alcohol Use amidst COVID: Evidence from a 21-day Daily Diary Study"
+  pdflink: "/pdf/Gopalanetalb_2024.pdf"
   book: "PLOS One, 2024"
   coauthors: "Jung, J., Chiang, S., Linden-Carmichael, A. & Lanza, S."
   links:
@@ -9,6 +10,7 @@ works:
     This study examines the association between college students' sense of belonging and alcohol use during the COVID-19 pandemic using data from a 21-day daily diary study. Understanding patterns in college student belonging and alcohol use during COVID-19 is critical given that both variables can be impacted by social distancing measures. College students (N = 341) enrolled at a large, public northeastern university completed surveys daily for 21 days reporting on their daily sense of belonging and alcohol use. Students reported higher likelihood of alcohol use and drinking more drinks on days when they experienced higher sense of belonging. Additionally, average levels of sense of belonging across the study period were significantly associated with higher likelihood of any alcohol use and more drinks consumed on drinking days. Students' experiences during COVID-19 may be distinctly different from prior years, and this study sheds light on how feelings of belonging may have contributed to student alcohol use during this period.
 
 - title: "Historical Patterns and Trends in Racial/Ethnic Disproportionality in School Discipline in the US"
+  pdflink: "/pdf/Gopalanetala_2024.pdf"
   book: "Socius: Sociological Research for a Dynamic World, 2024"
   coauthors: "Asson, S., Cattell Jr., M. & Frankenberg, E."
   links:
@@ -18,8 +20,9 @@ works:
     Research on racial disproportionality in school discipline remains a critical concern in education. This study examines racial disparities in school discipline across all US school districts from 2015 to 2020. Using data from the Office for Civil Rights at the US Department of Education, we document the patterns and trends in racial/ethnic disproportionality in school discipline across schools and districts nationally. We find persistent and widespread racial/ethnic disproportionality in discipline across districts, with Black students consistently experiencing higher rates of disciplinary actions compared to their peers. Our findings contribute to the understanding of systemic inequities in education and inform policy discussions around school discipline reform.
 
 - title: "Who Feels Like They Belong? Personality and Belonging in Students' First Year of College"
+  pdflink: "/pdf/StubblebineGopalanBrady_2024.pdf"
   book: "PLOS One, 2024"
-  coauthors: "Stubblebine, A., Gopalan, M., & Brady, S."
+  coauthors: "Stubblebine, A. & Brady, S."
   links:
     - url: "https://doi.org/10.1371/journal.pone.0295436"
       text: "Published Version"
@@ -27,8 +30,9 @@ works:
     Understanding what shapes students' sense of belonging in college is crucial for supporting student success. This study examines how personality traits relate to belonging among first-year college students (N = 974) at a large public university. Results from structural equation modeling revealed that more extraverted and more agreeable students reported higher belonging, while students higher in neuroticism reported lower belonging. The association between extraversion and belonging was partially mediated by social support, suggesting that extraverted students may experience greater belonging in part because they build stronger social networks. These findings highlight the role of individual differences in shaping students' college experiences and suggest potential ways to support belonging among students with different personality profiles.
 
 - title: "The Stubborn Unresponsiveness of Youth Voter Turnout to Civic Education: Quasi-experimental Evidence from State-Mandated Civics Tests"
+  pdflink: "/pdf/JungGopalan_2023.pdf"
   book: "Educational Evaluation and Policy Analysis, 2023"
-  coauthors: "Jung, J. & Gopalan, M."
+  coauthors: "Jung, J."
   links:
     - url: "https://www.doi.org/10.3102/01623737231195887"
       text: "Published Version"
@@ -38,8 +42,9 @@ works:
     We examine whether state-mandated civics tests affect youth voter turnout in national elections. Using a difference-in-differences design comparing changes in youth voter turnout in states with and without civics test requirements, we find that these tests had no detectable effect on youth voter turnout. Event study estimates suggest parallel pre-trends and no effect after implementation. Our estimates are precise enough to rule out modest-sized effects in either direction. These findings are robust to alternative specifications and samples. The absence of effects holds across various political contexts and student subgroups. Survey evidence suggests that civics tests do not meaningfully affect political knowledge, engagement, or efficacy. Our results indicate that civics tests, as currently implemented, are ineffective at achieving their primary goal of increasing youth civic participation.
 
 - title: "Health Policies as Education Policies? A Review of Causal Evidence and Mechanisms"
+  pdflink: "/pdf/GopalanEdara_2023.pdf"
   book: "AERA Open, 2023"
-  coauthors: "Gopalan, M., & Edara, R."
+  coauthors: "Edara, R."
   links:
     - url: "https://doi.org/10.1177/23328584231177616"
       text: "Published Version"
@@ -47,8 +52,9 @@ works:
     Health and education outcomes are closely intertwined, yet health and education policies are often designed and implemented in isolation. This article reviews causal evidence on the relationship between health policies and educational outcomes, focusing on mechanisms through which health interventions affect academic achievement, attendance, and cognitive development. We examine evidence from various health policy domains including health insurance expansions, school-based health services, and public health initiatives. The review highlights both direct effects through improved student health and indirect pathways through family resources and school environments. Understanding these mechanisms is crucial for designing integrated policies that effectively promote both health and educational outcomes.
 
 - title: "The Effect of School Shootings on School District Finance and Staffing Decisions"
+  pdflink: "/pdf/YangGopalan_2023.pdf"
   book: "Education Finance and Policy, 18(2), 2023"
-  coauthors: "Yang, L.K. & Gopalan, M."
+  coauthors: "Yang, L.K."
   links:
     - url: "https://direct.mit.edu/edfp/article-abstract/18/2/277/100732"
       text: "Published Version"
@@ -56,6 +62,7 @@ works:
     This study examines how school shootings affect school district spending and staffing decisions. Using event study and difference-in-differences designs with 16 years of district-level finance data, we find that school shootings have significant impacts on district expenditures and resource allocation. Districts increase spending on security and support services while reducing instructional expenditures. Staffing patterns shift toward more security personnel and mental health professionals. Effects persist for multiple years post-incident and vary with shooting severity. Results highlight how districts reallocate resources in response to school violence, with potential implications for educational equity and student outcomes.
 
 - title: "Where and with whom does a brief social-belonging intervention promote progress in college?"
+  pdflink: "/pdf/Waltonetal_2023.pdf"
   book: "Science, 380(6644), 2023"
   coauthors: "Walton, G. M., Murphy, M. M., Logel, C., Yeager, D. S., Goyer, J. S., Brady, S. T., [...] & Krol, N."
   links:
@@ -65,8 +72,9 @@ works:
     Can a brief social-belonging intervention improve college outcomes? We tested this question by delivering a social-belonging intervention through a naturalistic college transition program to 12,065 students at nine institutions in two preregistered experiments. The intervention represented diverse others' stories about belonging challenges in the transition to college and how these challenges can be overcome with time. Consistent with past small-scale studies, the intervention improved first-year grades and persistence for racial-ethnic minority, first-generation, and international students at more-selective institutions. Yet at less-selective institutions the intervention had no benefits, and it sometimes harmed persistence among students with poorer academic preparation from all groups. The results illustrate both the potential for psychological intervention to scale to benefit students and the critical importance of the institutional context for intervention success.
 
 - title: "Impacts of Publicly Funded Health Insurance for Adults on Children's Academic Achievement"
+  pdflink: "/pdf/BullingerGopalanLombardi_2023.pdf"
   book: "Southern Economic Journal, 89(3), 2023"
-  coauthors: "Bullinger, L., Gopalan, M., & Lombardi, C."
+  coauthors: "Bullinger, L. & Lombardi, C."
   links:
     - url: "https://doi.org/10.1002/soej.12614"
       text: "Published Version"
@@ -76,8 +84,9 @@ works:
     This study investigates how parental access to public health insurance affects children's academic achievement. Using variation in states' income eligibility limits for parents under Medicaid and administrative data from public schools, we find that expanding parent eligibility significantly improves children's test scores. A 10 percentage point increase in the share of low-income parents eligible for Medicaid leads to a 0.09 standard deviation increase in children's math test scores. The effects are largest for elementary school students and English language learners. Improvements in family financial well-being and child health care access appear to be key mechanisms. Our findings demonstrate important spillover effects of adult health insurance expansions onto children's human capital development.
 
 - title: "Better Late than Never: Effects of Late ACA Medicaid Expansions for Parents on Family Health-related Financial Well-being"
+  pdflink: "/pdf/Gopalanetal_2022.pdf"
   book: "INQUIRY: The Journal of Health Care Organization, Provision, and Financing, 2022"
-  coauthors: "Lombardi, C., Bullinger, L., & Gopalan, M."
+  coauthors: "Lombardi, C. & Bullinger, L."
   links:
     - url: "https://doi.org/10.1177/00469580221133215"
       text: "Published Version"
@@ -87,8 +96,9 @@ works:
     This study examines the effects of recent state Medicaid expansions under the Affordable Care Act on family health-related financial well-being. Using data from the National Health Interview Survey and a difference-in-differences design, we find that Medicaid expansion significantly reduced families' medical debt and improved their ability to pay medical bills. The effects are particularly pronounced for low-income families and those with children. We also find evidence of improved mental health among parents. These findings suggest that expanding public health insurance access can have meaningful impacts on family financial stability and well-being, even when implemented years after the initial ACA expansion opportunity.
 
 - title: "K-12 Civil Rights Complaints in the US: A Nationwide Analysis"
+  pdflink: "/pdf/GopalanLewis_2022.pdf"
   book: "Educational Researcher, 2022"
-  coauthors: "Gopalan, M., & Lewis, M."
+  coauthors: "Lewis, M."
   links:
     - url: "https://doi.org/10.3102/0013189X221130056"
       text: "Published Version"
@@ -97,9 +107,20 @@ works:
   abstract: >
     This study provides the first comprehensive analysis of civil rights complaints in K-12 education across the United States. Using data from the U.S. Department of Education's Office for Civil Rights, we examine patterns in complaint filings, types of alleged discrimination, and resolution outcomes from 2011-2018. We find significant disparities in complaint rates across states and districts, with higher rates in more diverse and economically disadvantaged areas. Disability discrimination comprises the largest share of complaints, followed by race and sex discrimination. Our analysis reveals substantial variation in resolution times and outcomes, raising questions about equity in civil rights enforcement. These findings have important implications for understanding and addressing civil rights violations in education.
 
+- title: "College Students’ Sense of Belonging and Mental Health Amidst the COVID-19 Pandemic"
+  pdflink: "/pdf/Gopalanetal_2021.pdf"
+  book: "Journal of Adolescent Health, 2022"
+  coauthors: "Linden-Carmichael, A & Lanza, Stephanie"
+  links:
+    - url: "https://doi.org/10.1016/j.jadohealth.2021.10.010"
+      text: "Published Version"
+  abstract: >
+    Purpose: Social isolation, anxiety, and depression have significantly increased during the COVID-19 pandemic among college students. We examine a key protective factor—students’ sense of belonging with their college—to understand (1) how belongingness varies overall and for key sociodemographic groups (first-generation, underrepresented racial/ethnic minority students, first-year students) amidst COVID-19 and (2) if feelings of belonging buffer students from adverse mental health in college.Methods: Longitudinal models and regression analysis was assessed using data from a longitudinal study of college students (N = 1,004) spanning (T1; Fall 2019) and amidst COVID-19 (T2; Spring 2020). Results: Despite reporting high levels of belonging pre- and post-COVID, consistent with past research, underrepresented racial/ethnic minority/first-generation students reported relatively lower sense of belonging compared to peers. Feelings of belonging buffered depressive symptoms and to a lesser extent anxiety amidst COVID among all students. Conclusions: College students’ sense of belonging continues to be an important predictor of mental health even amidst the pandemic, conveying the importance of an inclusive climate.
+
 - title: "College students' sense of belonging: A national perspective"
+  pdflink: "/pdf/GopalanBrady_2020.pdf"
   book: "Educational Researcher, 49(2), 2020"
-  coauthors: "Gopalan, M., & Brady, S. T."
+  coauthors: "Brady, S. T."
   note: "#5 among most cited articles by Educational Researcher between 2019 and 2022"
   links:
     - url: "https://doi.org/10.3102/0013189X19897622"
@@ -107,9 +128,30 @@ works:
   abstract: >
     Students' sense of belonging in college is important for academic success and persistence, yet we know little about belonging across different institutional contexts. Using survey data from a large-scale field experiment at 21 colleges (N = 20,311), we examined student belonging overall and by race, gender, and first-generation status. Most students reported high belonging, yet inequality by race and first-generation status persisted across institutional contexts. Underrepresented racial minorities reported lower belonging at more selective, predominantly White institutions. First-generation students reported lower belonging than continuing-generation students, and this gap was larger at more selective institutions. While we found few gender differences overall, gender gaps varied by institutional context. Results highlight the importance of examining belonging at scale and understanding how belonging varies across students and institutions.
 
+- title: "Use of Quasi-Experimental Research Designs in Educational Research: Growth, Promise, and Challenges. Review of Research in Education"
+  pdflink: "/pdf/Gopalanetal_2020.pdf"
+  book: "Review of Research in Education, 2020"
+  coauthors: "Rosinger, K & Ahn, J."
+  links:
+    - url: "https://journals.sagepub.com/doi/10.3102/0091732X20903302"
+      text: "Published Version"
+  abstract: >
+    Broad-access institutions play a democratizing role in American society, opening doors to many who might not otherwise pursue college. Yet these institutions struggle with persistence and completion. Do feelings of nonbelonging play a role, particularly for students from groups historically disadvantaged in higher education? Is belonging relevant to students’ persistence—even when they form the numerical majority, as at many broad-access institutions? We evaluated a randomized intervention aimed at bolstering first-year students’ sense of belonging at a broad-access university (N = 1,063). The intervention increased the likelihood that racial-ethnic minority and first-generation students maintained continuous enrollment over the next two academic years relative to multiple control groups. This two-year gain in persistence was mediated by greater feelings of social and academic fit one-year post-intervention. Results suggest that efforts to address belonging concerns at broad-access, majority-minority institutions can improve core academic outcomes for historically disadvantaged students at institutions designed to increase college accessibility.
+
+- title: "A customized belonging intervention improves retention of socially disadvantaged students at a broad-access university"
+  pdflink: "/pdf/Murphyetal_2020.pdf"
+  book: "Science Advances, 2020"
+  coauthors: "Murphy, M.C, Carter, E., Emerson, K.T.U.E, Bottoms, B & Walton, G."
+  links:
+    - url: "https://www.science.org/doi/10.1126/sciadv.aba4677"
+      text: "Published Version"
+  abstract: >
+    Broad-access institutions play a democratizing role in American society, opening doors to many who might not otherwise pursue college. Yet these institutions struggle with persistence and completion. Do feelings of nonbelonging play a role, particularly for students from groups historically disadvantaged in higher education? Is belonging relevant to students’ persistence—even when they form the numerical majority, as at many broad-access institutions? We evaluated a randomized intervention aimed at bolstering first-year students’ sense of belonging at a broad-access university (N = 1,063). The intervention increased the likelihood that racial-ethnic minority and first-generation students maintained continuous enrollment over the next two academic years relative to multiple control groups. This two-year gain in persistence was mediated by greater feelings of social and academic fit one-year post-intervention. Results suggest that efforts to address belonging concerns at broad-access, majority-minority institutions can improve core academic outcomes for historically disadvantaged students at institutions designed to increase college accessibility.
+
 - title: "A national experiment reveals where a growth mindset improves achievement"
-  book: "Nature, 573(7774), 2019"
-  coauthors: "Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ...Gopalan, M.,...Dweck, C. S."
+  pdflink: "/pdf/Yeageretal_2019.pdf"
+  book: "Nature, 2019"
+  coauthors: "Yeager, D. S., Hanselman, P., Walton, G. M., Murray, J. S., Crosnoe, R., Muller, C., ...Dweck, C. S."
   note: "Awarded Best Publication in 2019 by Behavioral Science and Policy Association"
   links:
     - url: "https://doi.org/10.1038/s41586-019-1466-y"
@@ -117,9 +159,19 @@ works:
   abstract: >
     A growth mindset is the belief that intelligence can be developed. Previous studies have shown that teaching students a growth mindset improves their academic achievement, but these studies were conducted in a limited number of schools and did not investigate where the intervention was most effective. Using a randomized experiment in a national sample of schools (N = 12,490 students), we tested whether a short online growth mindset intervention could improve grades among lower-achieving students. The intervention improved grades among lower-achieving students in schools with supportive peer norms. These findings suggest that the psychological environment of a school matters for the efficacy of psychological interventions and that these interventions could be a cost-effective way to reduce academic inequality at scale.
 
+- title: "Understanding the Linkages between Racial/Ethnic Discipline gaps and Racial/Ethnic Achievement Gaps in the US"
+  pdflink: "/pdf/Gopalan_2019.pdf"
+  book: "Education Policy Analysis Archives, 2019"
+    links:
+    - url: "https://doi.org/10.14507/epaa.27.4469"
+      text: "Published Version"
+  abstract: >
+    This study estimates racial/ethnic discipline gaps, using multiple measures of school discipline outcomes, in nearly all school districts in the United States with data collected by the Office of Civil Rights between 2013 and 2014. Just like racial/ethnic achievement gaps, discipline gaps also vary substantially, ranging from negative to greater than two standard deviations, across districts. However, unlike the correlates of racial achievement gaps, the extensive set of district-level characteristics available in the Stanford Education Data Archive (SEDA) including economic, demographic, segregation, and school characteristics, explain roughly just one-fifth of the geographic variation in Black-white discipline gaps and one-third of the variation in Hispanic-white discipline gaps. This study also finds a modest, statistically significant, positive association between discipline gaps and achievement gaps, even after extensive covariate adjustment. The results of this analysis provide an important step forward in determining the relationship between two forms of persistent inequality that have long plagued the U.S. education system.
+
 - title: "Understanding the Racial Discipline Gap in Schools"
+  pdflink: "/pdf/GopalanNelson_2019.pdf"
   book: "AERA Open, 2019"
-  coauthors: "Gopalan, M., & Nelson, A. A."
+  coauthors: "Nelson, A. A."
   note: "Among top-10 most read articles in AERA Open in the first quarter of 2020"
   links:
     - url: "https://doi.org/10.1177/2332858419844613"
@@ -128,8 +180,9 @@ works:
     This study examines racial disparities in school disciplinary practices using national data from the Civil Rights Data Collection. We find consistent patterns of disproportionate disciplinary actions against Black students compared to their White peers, even after controlling for behavioral infractions and school characteristics. These disparities are particularly pronounced in schools with higher proportions of White teachers and administrators. The analysis reveals that implicit bias, cultural mismatches, and institutional practices may contribute to these disparities. Our findings suggest the need for comprehensive reforms in school disciplinary policies and practices to address systemic racial inequities in education.
 
 - title: "Applying Behavioral Insights in Policy Analysis: Recent Trends in the United States"
+  pdflink: "/pdf/GopalanPirog_2018.pdf"
   book: "Policy Studies Journal, 45: S82–S114, 2017"
-  coauthors: "Gopalan, M., & Pirog, M."
+  coauthors: "Pirog, M."
   links:
     - url: "https://doi.org/10.1111/psj.12202"
       text: "Published Version"
