@@ -1,4 +1,14 @@
 works:
+- title: "Historical Patterns and Trends in Teacher-Student Demographic Changes in the United States"
+  pdflink: "/pdf/Gopalanetal_2025.pdf"
+  book: "Socius: Sociological Research for a Dynamic World, 2025"
+  coauthors: "Jilli Jung and Paul Hanselman"
+  links:
+    - url: "https://doi.org/10.1177/23780231251321323"
+      text: "Published Version"
+  abstract: >
+    This visualization represents historical patterns and trends in racial/ethnic distributions of teachers and students over the past five decades in K–12 public schools in the United States. Specifically, the authors highlight the demographic mismatch between the school-age population and the teaching workforce that persists for all non-White groups. The rapidly diversifying, multiethnic school-age population highlighted by the 2020 census combined with the persistent, predominantly White teacher population continues to remain a concerning issue given the multifaceted benefits of student-teacher demographic match for students from minoritized backgrounds. Recruitment and retention of a diverse teaching workforce that mirrors the school-age population must remain a core education policy priority in the coming decades.
+
 - title: "College Students' Sense of Belonging and Alcohol Use amidst COVID: Evidence from a 21-day Daily Diary Study"
   pdflink: "/pdf/Gopalanetalb_2024.pdf"
   book: "PLOS One, 2024"
@@ -180,7 +190,7 @@ works:
     This study examines racial disparities in school disciplinary practices using national data from the Civil Rights Data Collection. We find consistent patterns of disproportionate disciplinary actions against Black students compared to their White peers, even after controlling for behavioral infractions and school characteristics. These disparities are particularly pronounced in schools with higher proportions of White teachers and administrators. The analysis reveals that implicit bias, cultural mismatches, and institutional practices may contribute to these disparities. Our findings suggest the need for comprehensive reforms in school disciplinary policies and practices to address systemic racial inequities in education.
 
 - title: "Applying Behavioral Insights in Policy Analysis: Recent Trends in the United States"
-  pdflink: "/pdf/GopalanPirog_2018.pdf"
+  pdflink: "/pdf/GopalanPirog_2017.pdf"
   book: "Policy Studies Journal, 45: S82–S114, 2017"
   coauthors: "Maureen Pirog"
   links:
