@@ -1,4 +1,25 @@
 works:
+- title: "College Students’ Sense of Belonging: A Graduation Update"
+  pdflink: "/pdf/Kroeperetal2025_EPR.pdf"
+  book: "Educational Researcher, 2025"
+  coauthors: "Shannon Brady" 
+  links:
+    - url: "http://dx.doi.org/10.1007/s10648-025-10010-w"
+      text: "Published Version"
+  abstract: >
+    Despite considerable and growing interest in college students’ sense of belonging, its relationship with postsecondary credential attainment remains poorly understood. Here, in a nationally representative sample of U.S. undergraduates who matriculated in 2011-2012 (N = 21,700), first-year belonging was longitudinally associated with attainment: a one-point increase on the 5-point scale corresponded to a 3.4 percentage-point increase in four-year attainment and a 2.7 percentage-point increase in six-year attainment. These descriptive findings offer large-scale evidence linking college students’ belonging to their receipt of a degree and underscore the continued need to foster students’ belonging and measure it well.
+
+
+- title: "Who Gets to Belong in College? An Empirical Review of How Institutions Can Assess and Expand Opportunities for Belonging on Campus"
+  pdflink: "/pdf/Kroeperetal2025_EPR.pdf"
+  book: "Educational Psychology Review, 2025"
+  coauthors: "Kathryn Kroeper, Katharine Emerson and Greg Walton"
+  links:
+    - url: "http://dx.doi.org/10.1007/s10648-025-10010-w"
+      text: "Published Version"
+  abstract: >
+    Over a dozen rigorous randomized-controlled trials show that recognizing worries about belonging in a new school as normal and as improving with time can help students stay engaged, build relationships, and succeed. Such “social-belonging” interventions can help students take advantage of opportunities available to them to develop their belonging in college—yet what is the institutional role? Drawing on past literature, and reporting novel data from the College Transition Collaborative’s massive trial of the social-belonging intervention (N = 15,143 control-condition students in 374 “local-identity” groups across 22 representative colleges and universities; Walton et al., 2023), we explore who gets to belong in college and what institutional leaders can do to expand these opportunities. First, we find that opportunities for belonging (i.e., “belonging affordances”) vary widely, both across institutions and systematically across groups. Notably, Black, Asian, and first-generation college student groups are each less likely than other groups to have minimally adequate opportunities for belonging. Second, all institutions are serving some student groups well, but all can improve: none provides adequate belonging affordances for all groups. Third, four classes of institutional factors predict belonging affordances at the identity-group level: (1) greater in-group representation, (2) more inclusive cultures, (3) greater opportunities for strong relationships, and (4) greater opportunities for productive learning. We conclude by discussing how institutions can learn for whom they are creating opportunities for belonging and for whom they are not, and how institutions can expand opportunities for belonging for groups that are not yet well served.
+
 - title: "Historical Patterns and Trends in Teacher-Student Demographic Changes in the United States"
   pdflink: "/pdf/Gopalanetal2025_Socius.pdf"
   book: "Socius: Sociological Research for a Dynamic World, 2025"

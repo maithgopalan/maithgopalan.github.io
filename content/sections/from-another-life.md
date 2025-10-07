@@ -1,0 +1,1 @@
+I spent close to a decade in the financial analytics industry prior to grad school both in India and London. I have had the privilege to work for some  fun companies like GE Money, Dun & Bradstreet, Moody's Analytics, and UBS. See here[https://www.linkedin.com/in/maithreyigopalan]   
