@@ -1,6 +1,17 @@
 works:
+- title: "Countermeasures to misinformation: lessons from the social sciences and applications to education in the United States"
+  pdflink: "/pdf/Gopalanetal_2026.pdf"
+  book: "Evidence & Policy, 2026"
+  coauthors: "Francesca Lopez, Alia Shalaby, Elisa Serrano and Giselle Delcid" 
+  links:
+    - url: "https://doi.org/10.1332/17442648Y2025D000000076"
+      text: "Published Version"
+  abstract: >
+    We synthesise evidence from about 400 studies on mis/disinformation published between 2010 and 2024, drawing on research from across the social sciences. Despite widespread misinformation related to education, we find few studies that focus on how it spreads or how to address ‘systemic misinformation’ in this context. Building on prior syntheses (Blair et al, 2024), we categorise the main strategies used to fight misinformation in the United States across various domains such as public health, climate change and science communication into four types: informational, educational, sociopsychological and institutional. We then assess which of these approaches, widely studied in other fields, might be most useful to thwart misinformation in the uniquely decentralised world of US public education. As past research has shown, informational strategies – like fact-checking, pre-bunking and labelling content for credibility – are the most studied. However, their success depends on many factors, such as the setting, how the message is delivered, the topic and the audience’s beliefs. Educational approaches, like media literacy programmes, show some promise, but have predominantly worked in reducing online misinformation only. Interestingly, we find that sociopsychological and institutional strategies, though less studied – may be especially promising for addressing misinformation in US K-12 education. These approaches may be key in countering organised campaigns that contest equity-focused evidence-based teaching practices. We close by identifying ways to fill current research gaps and suggest combining the most effective elements of different strategies to examine what works – and in which contexts – when it comes to tackling misinformation in education.
+
+
 - title: "College Students’ Sense of Belonging: A Graduation Update"
-  pdflink: "/pdf/Kroeperetal2025_EPR.pdf"
+  pdflink: "/pdf/BradyGopalan_2025.pdf"
   book: "Educational Researcher, 2025"
   coauthors: "Shannon Brady" 
   links:
@@ -11,7 +22,7 @@ works:
 
 
 - title: "Who Gets to Belong in College? An Empirical Review of How Institutions Can Assess and Expand Opportunities for Belonging on Campus"
-  pdflink: "/pdf/Kroeperetal2025_EPR.pdf"
+  pdflink: "/pdf/Kroeperetal_2025.pdf"
   book: "Educational Psychology Review, 2025"
   coauthors: "Kathryn Kroeper, Katharine Emerson and Greg Walton"
   links:
